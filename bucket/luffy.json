@@ -1,7 +1,7 @@
 {
   "version": "1.0.6",
   "description": "Watch movies and TV shows from terminal",
-  "depends": ["fzf", "mpv", "yt-dlp", "chafa", "extras/kitty"]
+  "depends": ["fzf", "mpv", "yt-dlp", "chafa", "extras/kitty"],
   "homepage": "https://github.com/DemonKingSwarn/luffy",
   "license": "GPL-3.0",
 
