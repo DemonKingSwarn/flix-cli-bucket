@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8.1",
+  "version": "1.0.8.2",
   "description": "Watch movies and TV shows from terminal",
   "depends": ["fzf", "mpv", "yt-dlp", "chafa", "wezterm"],
   "homepage": "https://github.com/DemonKingSwarn/luffy",
