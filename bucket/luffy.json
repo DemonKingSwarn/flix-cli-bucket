@@ -12,5 +12,5 @@
     }
   },
 
-  "bin": "luffy.exe"
+  "bin": ["luffy-amd64.exe", "luffy.exe"]
 }
