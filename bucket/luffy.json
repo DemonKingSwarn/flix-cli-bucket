@@ -13,6 +13,6 @@
   },
 
   "bin": [
-    ["luffy-amd64.exe", "luffy.exe"]
+    ["luffy-amd64.exe", "luffy"]
   ]
 }
