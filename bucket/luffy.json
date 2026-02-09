@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Watch movies and TV shows from terminal",
   "depends": ["fzf", "mpv", "yt-dlp", "chafa", "wezterm"],
   "homepage": "https://github.com/DemonKingSwarn/luffy",
@@ -7,13 +7,13 @@
 
   "architecture": {
     "64bit": {
-      "url": "https://github.com/DemonKingSwarn/luffy/releases/download/v1.0.13/luffy-windows-amd64.exe",
-      "hash":  "f83a3e567b3d1daabad950b3c39f3657b66af3f4281ece5d8f8f571f11c8df37",
+      "url": "https://github.com/DemonKingSwarn/luffy/releases/download/v1.0.14/luffy-windows-amd64.exe",
+      "hash":  "2b203a05b0d632d7f6a455b5c49f2f004c2130605a11dc8ecaee4f2e886f0905",
       "bin": [["luffy-windows-amd64.exe", "luffy"]]
     },
     "32bit": {
-      "url": "https://github.com/DemonKingSwarn/luffy/releases/download/v1.0.13/luffy-windows-386.exe",
-      "hash":  "f1405ed637ef6aa4c958dd8dd33e555f3f51632d3cd75343fe1bd47ca4875e50",
+      "url": "https://github.com/DemonKingSwarn/luffy/releases/download/v1.0.14/luffy-windows-386.exe",
+      "hash":  "8f2e5e7c498aee89cde65c20919cffc7464a1e65fb010a794dc8928512ccd03b",
       "bin": [["luffy-windows-386.exe", "luffy"]]
     }
   }
