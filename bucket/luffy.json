@@ -8,12 +8,12 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/DemonKingSwarn/luffy/releases/download/v1.1.4/luffy-windows-amd64.exe",
-      "hash":  "ad6225b5219dce0bde710757fcb8dbe9920006a02f34880de68fbcadae8cc864",
+      "hash":  "7eaab6f0fc5d07e478e40d6987e30be5d4128ec9dc59b0098afb6888436a9429",
       "bin": [["luffy-windows-amd64.exe", "luffy"]]
     },
     "32bit": {
       "url": "https://github.com/DemonKingSwarn/luffy/releases/download/v1.1.4/luffy-windows-386.exe",
-      "hash":  "376925b714130d498094516f6246fe9804879ce307de1c1430e8f16b2cab97d2",
+      "hash":  "5706a82c49871cf3ba5fd191265c7cbaa49046c1de694a7756fe134e2cb38051",
       "bin": [["luffy-windows-386.exe", "luffy"]]
     }
   }
